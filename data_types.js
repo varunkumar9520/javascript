@@ -24,3 +24,13 @@ let city ="modinagar"
 */
 
 // type of-> it tells the what type of value it holds
+
+let isLogged=false;
+let state;
+
+console.log(typeof(name));
+console.log(typeof(city));
+console.log(typeof(age));
+console.log(typeof(isLogged));
+console.log(typeof(null));
+console.log(typeof(state)); // type is undefined because there is no value is assign to that variable
